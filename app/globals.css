@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #3b1e54; /* Deep Purple */
+  --secondary: #9b7ebd; /* Soft Lavender */
+  --tertiary: #d4bee4; /* Light Purple */
+  --neutral: #eeeeee; /* Neutral Gray */
+  --mainbg:#f3f3ff ;
+}
